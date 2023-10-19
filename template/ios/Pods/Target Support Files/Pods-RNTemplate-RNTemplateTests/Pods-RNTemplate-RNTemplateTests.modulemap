@@ -1,0 +1,6 @@
+module Pods_RNTemplate_RNTemplateTests {
+  umbrella header "Pods-RNTemplate-RNTemplateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
