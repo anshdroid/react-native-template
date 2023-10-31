@@ -2,7 +2,7 @@
         "name": "react-native-new-template",
         "version": "0.0.1",
         "description": "React Native Template",
-        "repository": "git@192.168.1.45:7999/rts/react-native-new-template.git",
+        "repository": "https://github.com/anshdroid/react-native-template.git",
         "author": "Dotsquares (Himanshu)",
         "license": "MIT"
 }
