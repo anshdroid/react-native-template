@@ -1,1 +1,1 @@
-chmod +x script.js
+console.log('Project initialization')
